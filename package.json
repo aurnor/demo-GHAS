@@ -1,0 +1,13 @@
+{
+    "name": "ghas_demo",
+    "version": "1.0.0",
+    "description": "demo project",
+    "license": "MIT",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "axios": "0.21.1",
+        "minimist": "1.2.5"
+    }
+}
