@@ -7,7 +7,7 @@
         "start": "node main.js"
     },
     "dependencies": {
-        "axios": "0.30.2",
+        "axios": "0.31.1",
         "minimist": "1.2.6"
     }
 }
